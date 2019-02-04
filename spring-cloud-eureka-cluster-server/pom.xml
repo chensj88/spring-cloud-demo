@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.winning.devops</groupId>
-  <artifactId>spring-cloud-eureka-cluster-server1</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>spring-cloud-eureka-cluster-server</artifactId>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>spring-cloud-eureka-cluster-server1</name>
+  <name>spring-cloud-eureka-cluster-server</name>
   <description> spring cloud eureka 注册中心集群配置 服务1</description>
 <!--引入spring boot 配置-->
   <parent>
